@@ -16,7 +16,7 @@ API REST para gerenciamento odontológico, desenvolvida em Spring Boot, respons�
 ## 🔗 **Frontend (Mobile App)**
 
 O app mobile que consome esta API está disponível em:  
-👉 [parrot-tech-app](https://github.com/seu-user/parrot-tech-app)
+👉 [parrot-tech-app](https://github.com/jumarianobf/android-challenge)
 
 ---
 
